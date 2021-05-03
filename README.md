@@ -17,9 +17,12 @@ In this section, theater outcomes by launch date was analyzed to understand the 
 
 Data demonstrates that campaigns had the most successes in achieving their goals in the months of May, June, and July and the lowest rate of successes were seen in the month of December. It is also useful to understand that none of the campaigns have been cancelled during the month of October in the years 2009-2017.
 
+![Outcomes Based on Launch Date](https://github.com/rshahba/kickstartet-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 This analysis makes it clear to us that play campaignes with goals of $1000 and less have the highest chance, %76, in succeeding. There is a downward trend of successful campaigns for projects with the $1,000-$34,999. However, the rate of success increases in projects with $35,000 - $44,999. No plays campaigns with any goals have ever cancelled. It is important to call out that 100% of play campaigns with the goals of $45,000 - $49,999 fail.
+
+![Outcomes Based on Goal](https://github.com/rshahba/kickstartet-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
     - Ordering the "successful", "failed", and "canceled" coloumns in the pivot table 
