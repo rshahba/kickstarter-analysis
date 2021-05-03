@@ -35,7 +35,7 @@ This analysis makes it clear to us that play campaignes with goals of $1000 and 
     2. No theater campaigns between 2009 and 2017 have been canceled
 
 - What can you conclude about the Outcomes based on Goals?
-- It is best to run play compaignes with less than $1000 goals
+    - It is best to run play compaignes with less than $1000 goals
 - What are some limitations of this dataset?
     - The total number of campaigns each brand has had
     - The pledge amount for "live" campaigns does not get updated live on the data set
